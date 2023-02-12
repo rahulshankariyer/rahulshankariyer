@@ -18,13 +18,39 @@ Intern, Indian Statistical Institute, May 2018 - August 2018
 
 ## Data Analysis Related Project Work
 
-## Skills Utilized in the Projects
+1. Google Data Analytics Professional Certificate Case Study - Bike Sharing Data from Cyclistic, Chicago
+2. Covid-19 Testing, Infections, Death Rates
+3. Covid Vaccination - Effect On Cases & Deaths
+4. Final Year Project 2018-2019 - Application of Discriminant Analysis for Predicting Medical Diagnosis of Cancer & Diabetes and Identification of Compounds in Herbal Plants
+5. Analysis of Accident Victims Evaluation by Four Different Hospitals
 
-At the Indian Statistical Institute, I had the opportunity to apply my knowledge of statistical algorithms and methods to real life data sets. Conducting research with doctors, I compared the data of accident victims of four leading local hospitals. I used Excel to perform Regression Analysis and used Minitab to generate charts to present the data visually to the stakeholders. The results helped in concluding which hospital was more accurate in their initial evaluation of accident victims to predict the salvaging or amputating of limbs.
+## Skills
 
-I have had experience collecting, transforming, and organizing data for analysis to help make informed decisions and an excellent understanding and proficiency of platforms for effective data analyses, including SQL, spreadsheets, Tableau and R. Strong communication, organizational and analytical skills. Recently completed the Google Data Analytics Certificate – a rigorous , hands-on program that covers the entire scope of the data analysis process
+### Programming
 
-As part of my Data Analytics course, I had worked on two Case Studies. In one case study, I had generated insights from cyclist data in order to give recommendations to Cyclistic, a bike sharing company, on how they can turn casual bike riders into member riders. In another case study, I used fitness data provided by Fitbit users to influence the marketing strategy of Bellabeat for their products. 
+1. Python
+2. R Programming
+3. SQL & NoSQL
+4. MATLAB
+
+### Software
+
+1. Tableau
+2. Excel (Pivot Tables & VLOOKUP)
+3. SPSS
+4. R Studio
+5. MySQL
+6. Oracle DB
+7. MS Office tools
+
+### Methods & Algorithms
+
+1. Regression Analysis
+2. Proportionality Test
+3. Chi-Squared Test
+4. K-Nearest Neighbor
+5. Discriminant Analysis
+6. ANCOVA
 
 <!---
 rahulshankariyer/rahulshankariyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
