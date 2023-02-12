@@ -1,6 +1,14 @@
-Hi, I’m Rahul Shankar Iyer
+## Introduction
 
-I’m interested in Data Science and Analytics, using various Statistical Tools and Programming Languages to uncover key insights. A dream job for me would be a job in the sports field, often love to use data from different sports to do analysis on them and make predictions prior to matches
+Hi, I’m Rahul Shankar Iyer. I’m interested in Data Science and Analytics, using various Statistical Tools and Programming Languages to uncover key insights. A dream job for me would be a job in the sports field, often love to use data from different sports to do analysis on them and make predictions prior to matches.
+
+## Educational Background
+
+## Work Experience
+
+## Data Analysis Related Project Work
+
+## Skills Utilized in the Projects
 
 At the Indian Statistical Institute, I had the opportunity to apply my knowledge of statistical algorithms and methods to real life data sets. Conducting research with doctors, I compared the data of accident victims of four leading local hospitals. I used Excel to perform Regression Analysis and used Minitab to generate charts to present the data visually to the stakeholders. The results helped in concluding which hospital was more accurate in their initial evaluation of accident victims to predict the salvaging or amputating of limbs.
 
