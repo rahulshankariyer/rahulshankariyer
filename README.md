@@ -1,6 +1,6 @@
 ## Introduction
 
-Hi, I’m Rahul Shankar Iyer. I’m interested in Data Science and Analytics, using various Statistical Tools and Programming Languages to uncover key insights. A dream job for me would be a job in the sports field, often love to use data from different sports to do analysis on them and make predictions prior to matches.
+Hi, I am Rahul, an aspiring Data Analyst. I have a Master’s in Mathematics with Statistics, and a Bachelor’s in Computer Science & Engineering.  I am proficient in statistical methods and analytical software tools.
 
 ## Educational Background
 
@@ -18,39 +18,31 @@ Intern, Indian Statistical Institute, May 2018 - August 2018
 
 ## Data Analysis Related Project Work
 
-1. Google Data Analytics Professional Certificate Case Study - Bike Sharing Data from Cyclistic, Chicago
-2. Covid-19 Testing, Infections, Death Rates
-3. Covid Vaccination - Effect On Cases & Deaths
-4. Final Year Project 2018-2019 - Application of Discriminant Analysis for Predicting Medical Diagnosis of Cancer & Diabetes and Identification of Compounds in Herbal Plants
-5. Analysis of Accident Victims Evaluation by Four Different Hospitals
+1. Covid-19 Testing, Infections, Death Rates
+2. Covid Vaccination - Effect On Cases & Deaths
+3. Google Data Analytics Professional Certificate Case Study - Bike Sharing Data from Cyclistic, Chicago
+4. Master’s Project 2018-2019 - Application of Discriminant Analysis for Predicting Medical Diagnosis of Cancer & Diabetes and Identification of Compounds in Herbal Plants
+5. Analysis of Accident Victims’ data from four major Hospitals in Coimbatore, India, to assess -Decision support from scores on salvaging of limbs for polytrauma care.
 
 ## Skills
 
-### Programming
+### Programming & Software
 
 1. Python
-2. R Programming
+2. R Programming (R Studio)
 3. SQL & NoSQL
-4. MATLAB
+4. Tableau
+5. Excel (Pivot Tables & VLOOKUP)
+6. SPSS
 
-### Software
-
-1. Tableau
-2. Excel (Pivot Tables & VLOOKUP)
-3. SPSS
-4. R Studio
-5. MySQL
-6. Oracle DB
-7. MS Office tools
-
-### Methods & Algorithms
+### Statistical Methods
 
 1. Regression Analysis
 2. Proportionality Test
 3. Chi-Squared Test
 4. K-Nearest Neighbor
 5. Discriminant Analysis
-6. ANCOVA
+6. ANOVA & ANCOVA
 
 <!---
 rahulshankariyer/rahulshankariyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
