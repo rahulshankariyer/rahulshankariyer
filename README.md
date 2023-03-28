@@ -12,9 +12,9 @@ Intern, Indian Statistical Institute, May 2018 - August 2018
 
 Google Data Analytics Professional Certificate, August 2021 - February 2022
 
-MS Mathematics, July 2017 - May 2019
+Master of Science in Mathematics, July 2017 - May 2019
 
-B Tech Computer Science Engineering, August 2013 - May 2017
+Bachelor of Technology in Computer Science & Engineering, August 2013 - May 2017
 
 ## Data Analysis Related Project Work
 
