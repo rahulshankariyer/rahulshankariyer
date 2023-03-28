@@ -18,11 +18,11 @@ Bachelor of Technology in Computer Science & Engineering, August 2013 - May 2017
 
 ## Data Analysis Related Project Work
 
-1. Google Data Analytics Professional Certificate Case Study - Bike Sharing Data from Cyclistic, Chicago
-2. World Happiness 2022 - Exploratory Data Analysis project on the Happiness of 146 countries based on Per Capita GDP, Freedom to Make Life Choices, Absence of Corruption, Social Support, and Generosity
-3. MLB Web Scraping - Scraped ESPN dataset for batting performance of all 347 players in Major League Baseball, USA in 2022, and store it in a CSV file
-4. Atlanta Housing Data Cleaning - Cleaned Georiga Real Estate Data to get Atlanta Housing Data
-5. Master’s Project 2018-2019 - Application of Discriminant Analysis for Predicting Medical Diagnosis of Cancer & Diabetes and Identification of Compounds in Herbal Plants
+1. Google Data Analytics Professional Certificate Case Study - Bike Sharing Data from Cyclistic, Chicago.
+2. World Happiness 2022 - Exploratory Data Analysis project on the Happiness of 146 countries based on Per Capita GDP, Freedom to Make Life Choices, Absence of Corruption, Social Support, and Generosity.
+3. MLB Web Scraping - Scraped ESPN dataset for batting performance of all 347 players in Major League Baseball, USA in 2022, and store it in a CSV file.
+4. Atlanta Housing Data Cleaning - Cleaned Georiga Real Estate Data to get Atlanta Housing Data.
+5. Master’s Project 2018-2019 - Application of Discriminant Analysis for Predicting Medical Diagnosis of Cancer & Diabetes and Identification of Compounds in Herbal Plants.
 
 ## Skills
 
