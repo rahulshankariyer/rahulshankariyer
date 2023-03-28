@@ -28,21 +28,21 @@ Bachelor of Technology in Computer Science & Engineering, August 2013 - May 2017
 
 ### Programming & Software
 
-1. SQL & NoSQL
-2. Excel (Pivot Tables & VLOOKUP)
-3. Tableau
-4. Python
-5. R Programming (R Studio)
+1. Python
+2. R Programming (R Studio)
+3. SQL & NoSQL
+4. Tableau
+5. Excel (Pivot Tables & VLOOKUP)
 6. SPSS
 
 ### Statistical Methods
 
 1. Regression Analysis
-2. Proportionality Test
-3. ANOVA & ANCOVA
-4. Chi-Squared Test
-5. K-Nearest Neighbor
-6. Discriminant Analysis
+2. Discriminant Analysis
+3. K-Nearest Neighbor
+4. ANOVA & ANCOVA
+5. Chi-Squared Test
+6. Time Series Analysis
 
 <!---
 rahulshankariyer/rahulshankariyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
